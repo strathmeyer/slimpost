@@ -1,6 +1,6 @@
 {
 	"name": "Slimpost",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"dependencies": {
 		"normalize-css": "latest",
 		"font-awesome": "latest",
@@ -23,7 +23,7 @@
 	      		"mapping": [
 	      			{ "src/bower_components/normalize-css/normalize.css": "_normalize.scss" }
 	      		]
-	      	},   	
+	      	},
 	      	"font-awesome": {
 	      		"mapping": [
 	      			{ "src/bower_components/font-awesome/css/font-awesome.css": "_font-awesome.scss" },
